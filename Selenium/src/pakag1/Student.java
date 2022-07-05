@@ -10,7 +10,7 @@ public class Student {
 	public void display1()
 	{
 		
-		System.out.println("test");
+		System.out.println("test1");
 	}
 	
 	public static void main(String[] args) {
